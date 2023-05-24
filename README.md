@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/djo"><img src="https://api.daily.dev/devcards/7ce5185ff7954d7590b3e36209563520.png?r=9wy" width="400" alt="Dj's Dev Card"/></a>
 <!--
 **djo10/djo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
